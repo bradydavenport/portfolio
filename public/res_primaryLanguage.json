@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "",
-        "startDate": "",
-        "description": "",
+        "title": "Code 301 Final Project PlaceHolder",
+        "startDate": "May 2022",
+        "description": "Code 301 Final Project",
         "images": [
           "",
           ""
         ],
-        "url": "",
+        "url": "#no-link",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
