@@ -5,16 +5,16 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/bradydavenport",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/bradydavenport/",
+          "class": "fa fa-linkedin-square"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile-pic.jpg"
     },
     "skills": {
       "icons": [
