@@ -11,7 +11,7 @@
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/bradydavenport/",
-          "class": "fa fa-linkedin-square"
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "profile-pic.jpg"

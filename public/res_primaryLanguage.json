@@ -81,22 +81,22 @@
     ],
     "experience": [
       {
-        "company": "",
-        "title": "",
-        "years": "",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "2022",
         "mainTech": [
-          ""
+          "JavaScript"
         ],
         "technologies": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "React",
+          "Bootstrap",
+          "Express",
+          "MongoDB",
+          "HTML 5",
+          "CSS 3",
+          "VSCode",
+          "Git",
+          "GitHub"
         ]
       },
       {
